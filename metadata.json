@@ -1,0 +1,37 @@
+{
+  "name": "gajdaw-openssl",
+  "version": "0.0.0",
+  "author": "Włodzimierz Gajda",
+  "summary": "Puppet module to install openssl",
+  "license": "MIT",
+  "source": "https://github.com/puppet-by-examples/puppet-openssl",
+  "project_page": "https://github.com/puppet-by-examples/puppet-openssl",
+  "issues_url": "https://github.com/puppet-by-examples/puppet-openssl/issues",
+  "tags": [
+    "openssl",
+    "virtual host",
+    "ssl key generator",
+    "https"
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "14.04"
+      ]
+    }
+  ],
+  "requirements": [
+    { "name": "puppet", "version_requirement": "3.x" }
+  ],
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": ">=4.5.0"
+    },
+    {
+      "name": "gajdaw/diverse_functions",
+      "version_requirement": ">=0.1.1"
+    }
+  ]
+}
