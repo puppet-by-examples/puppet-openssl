@@ -1,6 +1,6 @@
 {
   "name": "gajdaw-openssl",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Włodzimierz Gajda",
   "summary": "Puppet module to install openssl",
   "license": "MIT",
