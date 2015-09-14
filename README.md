@@ -1,7 +1,16 @@
-#openssl module
+# DEPRECATED `gajdaw/openssl` Puppet Module
 
-The module to install openssl.
+***
 
-The module was tested in:
+# ************* CAUTION *************
 
-* trusty 14.04 (trusty32: https://vagrantcloud.com/ubuntu/boxes/trusty32)
+**THIS MODULE IS DEPRECATED!**
+
+To install and use openssl use `camptocamp/puppet-openssl` module:
+
+* [camptocamp/puppet-openssl source code on GitHub](https://github.com/camptocamp/puppet-openssl)
+* [camptocamp/puppet-openssl module on Puppet Forge](https://forge.puppetlabs.com/camptocamp/openssl)
+
+# ************* CAUTION *************
+
+***
