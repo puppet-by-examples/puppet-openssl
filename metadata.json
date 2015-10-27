@@ -2,7 +2,7 @@
   "name": "gajdaw-openssl",
   "version": "0.1.2",
   "author": "Włodzimierz Gajda",
-  "summary": "Puppet module to install openssl",
+  "summary": "Deprecated! Use camptocamp/openssl",
   "license": "MIT",
   "source": "https://github.com/puppet-by-examples/puppet-openssl",
   "project_page": "https://github.com/puppet-by-examples/puppet-openssl",
